@@ -14,3 +14,7 @@ La situation de la branche détachée n’est pas souhaitable car nous avons ré
 
 1.7 : Réaliser entièrement la séquence “Push & Pull - dépôts gits distants !” de la section “Remote”
 ![Capture d’écran du 2023-01-02 11-41-03](https://user-images.githubusercontent.com/93312612/210220913-58800521-1d92-49e9-9371-a1d1ff20ff7d.png)
+
+1.8 Gestoin des conflits : 
+![Capture d’écran du 2023-01-02 13-13-40](https://user-images.githubusercontent.com/93312612/210230512-153cee3d-c4db-4582-870e-68da036dda4f.png)
+![Capture d’écran du 2023-01-02 13-21-31](https://user-images.githubusercontent.com/93312612/210230575-870a9767-ee95-423f-80cc-9c7ca70dd474.png)

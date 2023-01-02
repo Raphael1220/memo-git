@@ -7,3 +7,7 @@ Je créé un fichier Histoire qui contiendra mon histoire séparé en trois chap
 Je complète ensuite ce fichier avant de les commit au fur et à mesure
 ![Capture d’écran du 2022-12-21 15-53-26](https://user-images.githubusercontent.com/93312612/208934399-0971ed26-7de9-44b1-93f9-4941792a3d4e.png)
 ![Capture d’écran du 2022-12-21 15-57-02](https://user-images.githubusercontent.com/93312612/208934832-ff2c2363-5e56-4f56-a064-b91b9d3deed7.png)
+
+Mise en place d'un worflow : 
+La situation de la branche détachée n’est pas souhaitable car nous avons réalisé un commit sans créer une branche au préalable. Ce qui a créé une branche détachée qui n’est pas souhaitable pour notre travail. Il aurait fallu créer une branche avant de réaliser notre commit
+![Capture d’écran du 2023-01-02 09-34-03](https://user-images.githubusercontent.com/93312612/210209345-843e0bae-0870-4d37-96c9-b33c65aa11bf.png)

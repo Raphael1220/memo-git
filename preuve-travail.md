@@ -11,3 +11,6 @@ Je complète ensuite ce fichier avant de les commit au fur et à mesure
 Mise en place d'un worflow : 
 La situation de la branche détachée n’est pas souhaitable car nous avons réalisé un commit sans créer une branche au préalable. Ce qui a créé une branche détachée qui n’est pas souhaitable pour notre travail. Il aurait fallu créer une branche avant de réaliser notre commit
 ![Capture d’écran du 2023-01-02 09-34-03](https://user-images.githubusercontent.com/93312612/210209345-843e0bae-0870-4d37-96c9-b33c65aa11bf.png)
+
+1.7 : Réaliser entièrement la séquence “Push & Pull - dépôts gits distants !” de la section “Remote”
+![Capture d’écran du 2023-01-02 11-41-03](https://user-images.githubusercontent.com/93312612/210220913-58800521-1d92-49e9-9371-a1d1ff20ff7d.png)

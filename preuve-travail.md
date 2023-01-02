@@ -18,3 +18,6 @@ La situation de la branche détachée n’est pas souhaitable car nous avons ré
 1.8 Gestoin des conflits : 
 ![Capture d’écran du 2023-01-02 13-13-40](https://user-images.githubusercontent.com/93312612/210230512-153cee3d-c4db-4582-870e-68da036dda4f.png)
 ![Capture d’écran du 2023-01-02 13-21-31](https://user-images.githubusercontent.com/93312612/210230575-870a9767-ee95-423f-80cc-9c7ca70dd474.png)
+
+1.9  Géneration de clé SSH
+![Capture d’écran du 2023-01-02 13-35-45](https://user-images.githubusercontent.com/93312612/210232187-f26f8ec4-d1bc-4386-973c-3d63293460fd.png)

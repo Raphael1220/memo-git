@@ -21,3 +21,7 @@ La situation de la branche détachée n’est pas souhaitable car nous avons ré
 
 1.9  Géneration de clé SSH
 ![Capture d’écran du 2023-01-02 13-35-45](https://user-images.githubusercontent.com/93312612/210232187-f26f8ec4-d1bc-4386-973c-3d63293460fd.png)
+
+Ajouter la clé SSH : 
+![Capture d’écran du 2023-01-02 13-51-40](https://user-images.githubusercontent.com/93312612/210233927-2e74ed95-c62d-45e7-bcbb-efa153b909c4.png)
+![Capture d’écran du 2023-01-02 13-53-41](https://user-images.githubusercontent.com/93312612/210234049-5ef9ed7d-ddec-4ad7-8f42-24bab619bd20.png)
